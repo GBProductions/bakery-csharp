@@ -1,11 +1,11 @@
 using System;
-using Bakery.Models;
+using Bakery;
 
 public class Program
 {
 
     public static void Main()
     {
-        Console.WriteLine("Hello and wecome to the Bakery!");
+        Console.WriteLine("Hello and welcome to the Bakery!");
     }
 }
