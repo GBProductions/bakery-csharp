@@ -15,8 +15,12 @@ namespace Bakery
     {
         public bool BreadCost(int cost)
         {
-            return false;
-            // return cost == 5;
+            return cost == 5;
         }
+    }
+
+    public class Pastry
+    {
+        
     }
 }
