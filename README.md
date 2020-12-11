@@ -1,10 +1,12 @@
 # _Bakery_
 
-#### _{Brief description of application}, Dec 11th 2020_
+#### _Pierre's Bakery, a program to tally and calculate orders., Dec 11th 2020_
 
 #### By _**Garrett Brown**_
 
 ## Description
+A program to help customers and workers at Pierre's Bakery calculate how much their order will cost. The bakery sells bread and pastries, at the following cost:
+
 
 
 
