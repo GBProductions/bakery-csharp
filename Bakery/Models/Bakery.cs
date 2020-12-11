@@ -1,13 +1,13 @@
 using System;
 using System.Collections.Generic;
 
-public class Bread{
-    public int Cost;
-}
+// public class Bread{
+//     public int Cost;
+// }
 
-public class Pastry{
-    public int Cost;
-}
+// public class Pastry{
+//     public int Cost;
+// }
 
 namespace Bakery
 {
