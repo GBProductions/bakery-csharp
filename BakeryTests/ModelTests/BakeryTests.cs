@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
-using Bakery;
+using Bakery.Models;
 using System;
 
 namespace Bakery.Tests
@@ -15,11 +15,11 @@ namespace Bakery.Tests
             Assert.AreEqual(true, testBread.BreadCost(5));
         }
 
-        [TestMethod]
-        public void BakeryCost_BreadCostsFiveDollars_True()
-        {
-            Bread testBread = new Bread();
-            Assert.AreEqual(true, testBread.BreadCost(5));
-        }
+        // [TestMethod]
+        // public void BakeryCost_BreadCostsFiveDollars_True()
+        // {
+        //     Bread testBread = new Bread();
+        //     Assert.AreEqual(true, testBread.BreadCost(5));
+        // }
     }
 }
