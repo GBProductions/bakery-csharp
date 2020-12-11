@@ -1,18 +1,18 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
-using Bakery.Models;
+using Bakery;
 using System;
 
 namespace Bakery.Tests
 {
     [TestClass]
-    public class BakeryTests
+    public class BreadTests
     {
         [TestMethod]
         public void BakeryCost_BreadCostsFiveDollars_True()
         {
-            Bakery testBakery = Bakery();
-            Assert.AreEqual(true, testbakeryCost.Bakery(5));
+            Bread testBread = new Bread();
+            Assert.AreEqual(true, testBread.BreadCost(5));
         }
     }
 }
