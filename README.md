@@ -19,11 +19,10 @@ This application will return the total cost of the order, and an itemized list o
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Open terminal on your machine. Navigate to Desktop._
+* _Type in "git clone https://github.com/GBProductions/bakery-csharp.git"_
+* _Navigate to root directory of the project and enter "dotnet build" into the command line.
+* _After the project builds, enter "dotnet run" into the command line.
 
 
 
@@ -36,7 +35,7 @@ _There are currently no known bugs._
 _If you need support, pease contact Garrett Brown at <garrettpaulbrown@gmail.com>_
 
 ## Technologies Used
-
+* VS Code, CL
 * C# v 7.3
 * .NET Core v 2.2
 * dotnet script, REPL
