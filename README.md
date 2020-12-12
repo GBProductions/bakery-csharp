@@ -6,7 +6,14 @@
 
 ## Description
 A program to help customers and workers at Pierre's Bakery calculate how much their order will cost. The bakery sells bread and pastries, at the following cost:
+* Bread = $5 for one loaf of bread.
+* Pastry = $2 for one pastry.
 
+Pierre's Bakery also offers special deals! 
+* Buy two loafs of bread, get one free! ($5 savings).
+* Buy three pastries for $5. ($1 savings).
+
+This application will return the total cost of the order, and an itemized list of the order.
 
 
 
